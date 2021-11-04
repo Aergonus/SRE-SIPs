@@ -27,3 +27,34 @@ two phased commit
 air gapped environment
 
 fail forwards
+
+Noisy neighbor
+
+Test in prod
+even if it says dev, it may not actually be dev
+stage is never the same as prod
+
+fast burn vs slow burn
+
+cross pollination of data/dc (usually in context of gdrp keeping data within country limits)
+
+Active-Active
+
+tags -> metric cardinality
+
+golden signals from Google SRE book
+RED
+USE
+Core web visuals
+
+hot buckets, cold buckets, rehydration of archived cold storage
+
+hugops - reddit’s hug of death
+
+treat causes not symptoms
+
+reactive vs proactive reliability, sre goal is proactive
+
+self detect and self repair, confidence
+
+locus of control, environment vs system
